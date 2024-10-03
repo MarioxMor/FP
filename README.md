@@ -18,3 +18,5 @@ Lista Numerada
 _Italica Texto_ 
 
 ***_Italica Negrita Texto_***
+
+![Imagen Programacion](https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513-2048x1024.jpg)
