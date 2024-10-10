@@ -47,7 +47,7 @@ int main()
 	f3 = f2 / f1;
 	cout << "Resultado	division floats" << f3 << endl;
 
-	// 5. Modulo (Residuo de la division
+	// 5. Modulo (Residuo de la division SOLO ENTEROS
 	n3 = n2 % n1;
 	cout << "Resultado residuo de division enteros" << n3 << endl;
 
@@ -115,5 +115,11 @@ int main()
 	f2 -= 1.2;
 	cout << "Restar 1.2 a f2" << f2 << endl;
 
-}
 
+
+	cout << (n1 > n2) << endl;
+	cout << (n1 < n2) << endl;
+
+
+	cout << ((n1 + 15) > n2) << endl;
+ }
